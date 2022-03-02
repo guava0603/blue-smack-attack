@@ -6,7 +6,7 @@ A kind of DoS attack via bluetooth.
 are carried out on IP-based devices, which are networked devices [39]. It is done by sending pings that
 are approximately 600 bytes, as well as L2CAP echo requests to Bluetooth devices [19]. This results in
 the input buffer to overflow and the targeted device to be knocked out."
-(Angela M. Lonzetta; Peter Cope; Joseph Campbell; Bassam J. Mohd; Thaier Hayajneh. *Security Vulnerabilities in Bluetooth Technology as Used in IoT*. **2018**, 15
+––(Angela M. Lonzetta; Peter Cope; Joseph Campbell; Bassam J. Mohd; Thaier Hayajneh. *Security Vulnerabilities in Bluetooth Technology as Used in IoT*. **2018**, 15
 
 ## Available System 
 
